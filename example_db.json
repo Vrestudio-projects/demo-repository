@@ -1,0 +1,79 @@
+{
+    "id": "VPom3Qp76HlwQyhg29dW",
+    "title": "Pompidou",
+    "description": "El Centre Pompidou Málaga es una sede del Centro Nacional de Arte y Cultura Georges Pompidou de Francia ubicada en el espacio denominado El Cubo en la ciudad española de Málaga. Se trata de la primera sede del Centre Pompidou París en el exterior.",
+    "location": {
+        "latitude": 36.71872768006904,
+        "longitude": -4.412698457750015
+    },
+    "image": "https://www.vrestudio.com/storage/AppTurismo/imagenes/imgP/Pompidou.png",
+    "images": [
+        "https://www.vrestudio.com/storage/AppTurismo/imagenes/16_Pompidou/Pompidou%20(1).jpg",
+        "https://www.vrestudio.com/storage/AppTurismo/imagenes/16_Pompidou/Pompidou%20(4).jpg",
+        "https://www.vrestudio.com/storage/AppTurismo/imagenes/16_Pompidou/Pompidou%20(5).jpg",
+        "https://www.vrestudio.com/storage/AppTurismo/imagenes/16_Pompidou/Pompidou%20(6).jpg"
+    ],
+    "images360": [
+        {
+            "elemento": "https://www.vrestudio.com/storage/AppTurismo/imagenes360/17_Villanueva_de_la_Serena/Villanueva_de_la_Serena_edificio.jpg",
+            "portada": "https://www.vrestudio.com/storage/AppTurismo/imagenes360/17_Villanueva_de_la_Serena/esferas/edificio_esfera.png"
+        },
+        {
+            "elemento": "https://www.vrestudio.com/storage/AppTurismo/imagenes360/17_Villanueva_de_la_Serena/Villanueva_de_la_Serena_palacio_de_congresos.jpg",
+            "portada": "https://www.vrestudio.com/storage/AppTurismo/imagenes360/17_Villanueva_de_la_Serena/esferas/Palacio-de-congresos.png"
+        }
+    ],
+    "videos": [
+        "https://vrestudio.com/storage/AppTurismo/videos/Pompidou.mp4"
+    ],
+    "videos360": [
+        {
+            "elemento": "https://vrestudio.com/storage/AppTurismo/videos360/PuenteAjuda/puenteAjudaCopia.m3u8",
+            "portada": "https://www.vrestudio.com/storage/AppTurismo/imagenes360/17_Villanueva_de_la_Serena/esferas/videoEsfera1.jpg"
+        },
+        {
+            "elemento": "https://vrestudio.com/storage/AppTurismo/videos360/Catedral/catedral_hls.m3u8",
+            "portada": "https://www.vrestudio.com/storage/AppTurismo/imagenes360/17_Villanueva_de_la_Serena/esferas/videoEsfera1.jpg"
+        }
+    ],
+    "modelos360": [
+        {
+            "elemento": "https://vrestudio.com/storage/AppTurismo/objetos/Astronaut.glb",
+            "portada": "https://vrestudio.com/storage/AppTurismo/objetos/portadas/modelo3D.png"
+        },
+        {
+            "elemento": "https://vrestudio.com/storage/AppTurismo/objetos/MaterialsVariantsShoe.glb",
+            "portada": "https://vrestudio.com/storage/AppTurismo/objetos/portadas/Alcazar.png"
+        }
+    ],
+    "audios": [
+        {
+            "imagen": "https://vrestudio.com/storage/AppTurismo/audio/flags/Iconos_torremolinos-08.png",
+            "titulo": "Molino de Inca",
+            "idioma": "Español",
+            "audio": "https://vrestudio.com/storage/AppTurismo/audio/MolinoInca_Espanol.mp3"
+        },
+        {
+            "titulo": "Inca Mill",
+            "imagen": "https://vrestudio.com/storage/AppTurismo/audio/flags/Iconos_torremolinos-07.png",
+            "idioma": "Inglés",
+            "audio": "https://vrestudio.com/storage/AppTurismo/audio/MolinoInca_Ingles.mp3"
+        },
+        {
+            "titulo": "Moulin Inca",
+            "imagen": "https://vrestudio.com/storage/AppTurismo/audio/flags/Iconos_torremolinos-06.png",
+            "idioma": "Francés",
+            "audio": "https://vrestudio.com/storage/AppTurismo/audio/MolinoInca_Frances.mp3"
+        },
+        {
+            "imagen": "https://vrestudio.com/storage/AppTurismo/audio/flags/Iconos_torremolinos-09.png",
+            "titulo": "Inka-Mühle",
+            "idioma": "Alemán",
+            "audio": "https://vrestudio.com/storage/AppTurismo/audio/MolinoInca_Aleman.mp3"
+        }
+    ],
+    "color": "12C3D6",
+    "destacado": true,
+    "numVisitas": 5,
+    "tipo": "Museos"
+}
