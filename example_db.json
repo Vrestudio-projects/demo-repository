@@ -36,7 +36,7 @@
             "portada": "https://www.vrestudio.com/storage/AppTurismo/imagenes360/17_Villanueva_de_la_Serena/esferas/videoEsfera1.jpg"
         }
     ],
-    "modelos360": [
+    "modelos3D": [
         {
             "elemento": "https://vrestudio.com/storage/AppTurismo/objetos/Astronaut.glb",
             "portada": "https://vrestudio.com/storage/AppTurismo/objetos/portadas/modelo3D.png"
