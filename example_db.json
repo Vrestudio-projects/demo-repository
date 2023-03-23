@@ -75,5 +75,6 @@
     "color": "12C3D6",
     "destacado": true,
     "numVisitas": 5,
-    "tipo": "Museos"
+    "tipo": "Museos",
+    "tiempoMedio": 30
 }
