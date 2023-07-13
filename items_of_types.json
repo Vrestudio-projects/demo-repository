@@ -1,0 +1,28 @@
+{
+    "icons": [
+        {
+            "id": "1",
+            "urlImage": "https://vrestudio.com/storage/AppTurismo/imagenes/googleMapsIconos/location1_72ppp_2.png",
+            "urlLogo":  "https://vrestudio.com/storage/AppTurismo/imagenes/googleMapsIconos/all.svg",
+            "hexColor": "#55B6C3"
+        },
+        {
+            "id": "2",
+            "urlImage": "https://vrestudio.com/storage/AppTurismo/imagenes/googleMapsIconos/location2_72ppp_2.png",
+            "urlLogo": "https://vrestudio.com/storage/AppTurismo/imagenes/googleMapsIconos/arte.svg",
+            "hexColor": "#9D90EC"
+        },
+        {
+            "id": "3",
+            "urlImage": "https://vrestudio.com/storage/AppTurismo/imagenes/googleMapsIconos/location3_72ppp_2.png",
+            "urlLogo": "https://vrestudio.com/storage/AppTurismo/imagenes/googleMapsIconos/cultura.svg",
+            "hexColor": "#FF9C27"
+        },
+        {
+            "id": "4",
+            "urlImage": "https://vrestudio.com/storage/AppTurismo/imagenes/googleMapsIconos/location4_72ppp_2.png",
+            "urlLogo": "https://vrestudio.com/storage/AppTurismo/imagenes/googleMapsIconos/historia.svg",
+            "hexColor": "#3BC583"
+        }
+    ]
+}
