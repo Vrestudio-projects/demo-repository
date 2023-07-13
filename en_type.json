@@ -1,0 +1,21 @@
+{
+    "language": "en",
+    "types": [
+        {
+            "id": "1",
+            "name": "All"
+        },
+        {
+            "id": "2",
+            "name": "Art"
+        },
+        {
+            "id": "3",
+            "name": "Culture"
+        },
+        {
+            "id": "4",
+            "name": "History"
+        }
+    ]
+}
